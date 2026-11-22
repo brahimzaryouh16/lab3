@@ -1,0 +1,11 @@
+# Artefacts générés à l'exécution du notebook (reproductibles) — non versionnés
+trained_models/
+*.pt
+data/arabert_emb.npy
+data/processed.npz
+
+# Divers Python / notebooks / OS
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+.DS_Store
